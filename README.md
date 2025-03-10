@@ -1,6 +1,5 @@
-# basic_python_practice_programs
-Practice programs to enhance basic knowledge in python.
-Batch 1:
+Batch 1: *******************************************************************************************************
+
 Prog01: Create a program that ask user to input 2 numbers. Print the bigger number.
 
 Prog02: Create a program that ask user to input 2 numbers. Print "Equal" when the numbers are the same.
@@ -22,7 +21,8 @@ Prog09: Create a program that print all the even numbers starting from 0 to 100.
 Prog10: Create a program that print all the numbers starting from 0 to 100 except numbers ending in zero.
 
 
-Batch 2:
+Batch 2: *******************************************************************************************************
+
 Prog01: Create a program that ask user to input 2 numbers. Print the smaller number.
 
 Prog02: Create a program that ask user to input 2 numbers. Print "Not Equal" when the numbers are not the same.
@@ -44,7 +44,8 @@ Prog09: Create a program that print all the numbers starting from 0 to 100 excep
 Prog10: Create a program that ask user to input 2 numbers. Print all the numbers between the two numbers.
 
 
-Batch 3:
+Batch 3: *******************************************************************************************************
+
 Prog01: Create a program that ask user to input 10 numbers. Display all numbers that don't have duplicate.
 
 Prog02: Create a program that ask user to input 10 numbers. Display all numbers. For numbers with duplicate, display only the first entry.
