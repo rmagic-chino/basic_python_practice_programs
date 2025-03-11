@@ -1,0 +1,7 @@
+#enter two numbers
+
+#disable division by zero error
+     #result = num1 / num2
+        #return result
+#else
+    #return "Division by zero is not possible"
