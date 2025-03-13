@@ -56,7 +56,11 @@ Prog04: Create a program that ask user to input a number, continue asking until 
 
 Prog05: Create a program that ask user to input a number, continue asking until the user input is invalid. Display the number from lowest to highest. Clue: sort() function
 
+<<<<<<< HEAD
 Batch 4 *******************************************************************************************************
+=======
+Batch 4: ********************************************************************************************************
+>>>>>>> 7eed1b9620e3c72f659f1a8f142b741fb2d793e9
 
 Prog01: Create a program that ask user to input 10 numbers. Display all numbers that have duplicate.
 
