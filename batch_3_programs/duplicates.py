@@ -9,5 +9,5 @@ for number in range(10):
         unique.append(num)
     values.append(num)
 
-#print output
+#print first entry
 print("Unique numbers: ", unique)
